@@ -1,5 +1,6 @@
-# NIST-Compliance
-NIST 800-53 PIC OR SOMETHING HERE
+# Implementing Security Controls Towards NIST SP 800-53 R5 Compliance
+![Screenshot 2023-11-06 at 4 59 37 PM](https://github.com/EricMcclellan1/NIST-Compliance/assets/147299619/8dd94446-616c-434f-9803-ba7f544d1fbe)
+
 
 # Introduction
 In this project, I remediate my mini honeynet I created in the previous project [(Building a SOC + Honenet)](https://github.com/EricMcclellan1/Cloud-Soc#building-a-soc--honeynet-in-azure-live-traffic) to be up to par and compliant with NIST SP 800 53 R5 regulatory compliance standards. I resolved several non-compliant controls within the security metrics in Microsoft Azure to harden the environment and decrease/nullify attacks as well as keeping the environment up to compliant standards.  The compliance metrics we will mitigate and audit are:
@@ -16,7 +17,8 @@ In this project, I remediate my mini honeynet I created in the previous project 
 
 ## Ratings Before Hardening/Security Controls
 
-<img width="845" alt="Screenshot 2023-11-04 at 4 17 41 PM" src="https://github.com/EricMcclellan1/NIST-Compliance/assets/147299619/1195ab83-cb46-4e3d-820b-73c351696b17">
+<img width="845" alt="main pic 2" src="https://github.com/EricMcclellan1/NIST-Compliance/assets/147299619/ae72e36a-8814-469f-abe1-1ede61762fcc">
+
 
 
 ## Metrics Before Hardening /Security Controls
