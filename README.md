@@ -50,7 +50,7 @@ We started with the AC: Access control compliance controls with AC: 2 and ended 
 <img width="1763" alt="exemption 1" src="https://github.com/EricMcclellan1/NIST-Compliance/assets/147299619/d579a74a-7d98-4754-bb1f-ebb416931d2f"> <br/>
 
 
-⭐ Some Of The Common Remediation Functions To Fix: 
+⭐ <b>Some Of The Common Remediation Functions To Fix:</b> 
 - Firewall Creations for VMs (linux/Windows)
 - Email Notifications
 - Exemptions
@@ -60,7 +60,7 @@ We started with the AC: Access control compliance controls with AC: 2 and ended 
 - Subnets associated with network security groups <br/>
 
 
-⭐ Some Of The Common Techniques (categories) Fixed during remediation.
+⭐ <b>Some Of The Common Techniques (categories) Fixed during remediation.</b>
 - Defense Evasion (https://attack.mitre.org/tactics/TA0005/)
 - Privilege Escalation (https://attack.mitre.org/tactics/TA0004/)
 - Impact (https://attack.mitre.org/tactics/TA0040/)
@@ -91,7 +91,7 @@ As shown below majority of all compliance policies were mitigated
 
 In this project, NIST SP 800 53 R5 policy changes were made within the Azure environment to become more compliant with regulations. Utilizing the tools available we were able to create firewalls for our virtual machines, create backups for virtual machines, create subnets with our NSGS, enable Microsoft Defender for several resources and more. It is noteworthy that the number of security events and incidents were drastically reduced after the security controls were applied, demonstrating their effectiveness [as shown in previous Azure SOC + Honeynet lab](https://github.com/EricMcclellan1/Cloud-Soc#building-a-soc--honeynet-in-azure-live-traffic)
 
-It is worth noting that remediating the environment to be more compliant with NIST SP 800 53 5 also increased our compliance with the Microsoft Cloud Security Benchmark (Azure default), increasing our overall score to a whopping 88% Secure Score!
+It is worth noting that remediating the environment to be more compliant with NIST SP 800 53 5 also increased our compliance with the Microsoft Cloud Security Benchmark (Azure default), increasing our overall score to a whopping <b>88%</b> Secure Score!
 
 
 ![security posture 3](https://github.com/EricMcclellan1/NIST-Compliance/assets/147299619/56d0fb8f-f693-4726-a168-565a1c3437b1)
