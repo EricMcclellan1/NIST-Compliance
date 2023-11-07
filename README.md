@@ -19,6 +19,8 @@ In this project, I remediate my mini honeynet I created in the previous project 
 
 <img width="845" alt="main pic 2" src="https://github.com/EricMcclellan1/NIST-Compliance/assets/147299619/ae72e36a-8814-469f-abe1-1ede61762fcc">
 
+<img width="537" alt="Screenshot 2023-11-07 at 2 45 33 PM" src="https://github.com/EricMcclellan1/NIST-Compliance/assets/147299619/6ec599e5-5371-49e4-b5b7-ced5f33c1f94">
+
 
 
 ## Metrics Before Hardening /Security Controls
